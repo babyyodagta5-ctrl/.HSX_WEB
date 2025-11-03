@@ -1,78 +1,146 @@
-All Rights Reserved — Proprietary Software License
-=================================================
+# All Rights Reserved — Proprietary Software License
 
-Copyright (c) 2025 William Isaiah Jones
-Developer: William Isaiah Jones
-Original (local-only) repository: https://github.com/sussybocca/.HSX
-Web version repository: https://github.com/babyyodagta5-ctrl/.HSX_WEB
-Effective date: November 3, 2025
+**Copyright (c) 2025 William Isaiah Jones**  
+**Developer:** William Isaiah Jones  
+**Original (local-only) repository:** https://github.com/sussybocca/.HSX  
+**Web version repository:** https://github.com/babyyodagta5-ctrl/.HSX_WEB  
+**Effective date:** November 3, 2025  
 
-1. Ownership
-------------
-All source code, files, artifacts, assets, designs, metadata, documentation,
-and any other materials associated with files using the ".hsx" filetype (the
-“Work”) are the sole and exclusive property of the Developer named above.
-The Developer is the original author and owner of all copyrights, moral
-rights, and any other intellectual property rights in the Work.
+---
 
-2. Permission to Publish/Web-Enable
------------------------------------
-The Developer expressly reserves the sole right to make, publish, host,
-or otherwise make the Work web-accessible (including but not limited to
-the repository listed above: https://github.com/babyyodagta5-ctrl/.HSX_WEB).
-No other party may claim, publish, or host the Work or any portion of it
-without the Developer’s prior, explicit, written permission.
+## 1. Ownership
 
-3. Prohibited Uses — No Copying or Redistribution
-------------------------------------------------
-Except as explicitly authorized in writing by the Developer, no person or
-entity may, in any manner, under any circumstances, or by any means (digital,
-electronic, physical, or otherwise):
+All source code, files, assets, designs, metadata, documentation, and any other materials associated with files using the `.hsx` filetype (collectively, the “Work”) are the sole and exclusive property of **William Isaiah Jones**. The Developer is the original author and retains all copyrights, moral rights, trademark rights, and any other intellectual property rights in the Work.  
 
-  • copy, reproduce, duplicate, mirror, or clone the Work, in whole or in part;
-  • distribute, publish, sublicense, sell, rent, lend, or otherwise transfer
-    the Work to any third party;
-  • create derivative works, adaptations, translations, or transformations
-    of the Work;
-  • use the Work to create or train machine learning models or otherwise
-    extract or derive data or features from the Work for any purpose.
+No individual, organization, or entity may claim authorship, ownership, or any derivative rights over the Work in whole or in part.
 
-This prohibition is absolute and applies in every state, shape, or form,
-without exception, except where explicit written permission from the Developer
-is provided.
+---
 
-4. Limited Exceptions
----------------------
-The Developer may, at their sole discretion, grant limited rights or licenses
-to specific parties via a written license agreement. Any such license must be
-in writing and signed by the Developer; no oral or implied license exists.
+## 2. Permission to Publish / Web-Enable
 
-5. Enforcement & Remedies
--------------------------
-Unauthorized use, copying, distribution, or creation of derivative works is a
-material breach of this License and may result in civil and/or criminal
-penalties. The Developer reserves the right to pursue all available legal
-remedies, including injunctive relief, monetary damages, and recovery of
-attorneys’ fees.
+The Developer expressly reserves the sole and exclusive right to:
 
-6. No Warranty
---------------
-The Work is provided "AS IS", without warranty of any kind, express or
-implied, including but not limited to warranties of merchantability,
-fitness for a particular purpose, or non-infringement. The Developer is not
-liable for any damages arising out of the use or inability to use the Work.
+- Make, publish, host, or deploy the Work in any format, including local, online, or web-accessible versions.
+- Control access to the Work in all environments, including repositories, websites, servers, or any digital or physical distribution channels.
 
-7. Governing Law
-----------------
-This License shall be governed by and construed in accordance with the laws of
-[INSERT GOVERNING JURISDICTION — e.g. State/Country]. Venue for any disputes
-shall be in the appropriate courts located in that jurisdiction.
+No other party may publish, host, or make the Work accessible in any form, including modifications or partial copies, without explicit prior **written authorization** from the Developer.
 
-8. Contact / Requests for Permission
-------------------------------------
-Requests for permission or licensing inquiries should be sent to:
-[INSERT PREFERRED CONTACT — e.g. email or GitHub profile]
+---
 
-Signed,
-William Isaiah Jones
-Date: November 3, 2025
+## 3. Prohibited Uses — No Copying, Redistribution, or Derivatives
+
+Except as explicitly authorized in writing by the Developer, no person or entity may, under any circumstances or by any means (digital, electronic, physical, or otherwise):
+
+- Copy, reproduce, duplicate, mirror, or clone the Work in whole or part.  
+- Distribute, publish, sublicense, sell, rent, lend, or otherwise transfer the Work to any third party.  
+- Create derivative works, adaptations, translations, transformations, or compilations based on the Work.  
+- Use the Work to train machine learning models, extract algorithms, data, or any other features from the Work for any purpose.  
+
+This prohibition applies in every state, shape, or form, without exception, except where explicit written permission from the Developer is provided.
+
+---
+
+## 4. Limited Exceptions
+
+At the sole discretion of the Developer, limited rights or licenses may be granted to specific parties through a **written agreement signed by the Developer**. No oral, implied, or informal permissions are valid under this License. Any such license, if granted, may include limitations on use, distribution, modification, or hosting of the Work.
+
+---
+
+## 5. Enforcement & Remedies
+
+Unauthorized copying, distribution, modification, or derivative creation is a **material breach** of this License. The Developer reserves the right to pursue all available legal remedies, including but not limited to:
+
+- Injunctive relief to immediately stop unauthorized activities.  
+- Monetary damages and compensation for losses caused by unauthorized use.  
+- Recovery of attorneys’ fees, legal costs, and associated expenses.  
+
+All violations will be treated as serious infringements of the Developer’s proprietary rights.
+
+---
+
+## 6. No Warranty
+
+The Work is provided **“AS IS”**, without any express or implied warranty, including but not limited to:
+
+- Warranties of merchantability or fitness for a particular purpose.  
+- Warranties of accuracy, completeness, or suitability for any specific use.  
+- Non-infringement of third-party rights.  
+
+The Developer shall not be held liable for any damages, losses, or interruptions arising from the use or inability to use the Work.
+
+---
+
+## 7. Governing Law & Jurisdiction
+
+This License shall be governed by and construed in accordance with the laws of **[INSERT GOVERNING JURISDICTION — e.g., State/Country]**. Any disputes arising under or in connection with this License shall be brought exclusively in the competent courts located within the chosen jurisdiction.  
+
+Parties agree that the Developer’s intellectual property rights will be enforced under the full extent of applicable law.
+
+---
+
+## 8. Accessibility & Web Hosting Rights
+
+The Developer is committed to making web-accessible versions of the Work usable for all individuals, including users with disabilities. Accessibility considerations include:
+
+- Semantic HTML and accessible markup for assistive technologies.  
+- Keyboard navigability and ARIA attributes to enhance screen reader compatibility.  
+- Adequate color contrast and other visual accessibility standards.  
+- Regular manual and automated testing to ensure compliance with accessibility best practices.  
+
+The Developer retains the exclusive right to deploy, update, and maintain web-accessible versions. Any unauthorized deployment or mirroring of the Work is strictly prohibited.
+
+---
+
+## 9. User Responsibilities
+
+All users accessing the Work, whether locally or via web deployment, must:
+
+- Comply fully with this License and the proprietary restrictions herein.  
+- Avoid unauthorized copying, redistribution, or derivative creation.  
+- Respect all intellectual property and moral rights of the Developer.  
+
+Failure to comply constitutes a direct violation of this License and may trigger legal action.
+
+---
+
+## 10. Licensing Requests
+
+All requests for licensing, collaboration, or reuse of the Work must be submitted **in writing** and include:
+
+1. Purpose of the intended use.  
+2. Scope and duration of the requested use.  
+3. Proposed modifications, if any, or derivative works.  
+
+The Developer’s contact information and preferred method for requests are listed in this repository. Unauthorized use without prior written approval is strictly prohibited.
+
+---
+
+## 11. Contribution & Collaboration Policy
+
+This Work is proprietary. Contributions from third parties are **not accepted** without a formal written agreement signed by the Developer. Any accepted contributions automatically become the property of **William Isaiah Jones** and are subject to the same License terms.
+
+---
+
+## 12. Security & Integrity
+
+The Developer prioritizes the security and integrity of the Work. Measures include:
+
+- Secure hosting practices for all web-accessible versions.  
+- Monitoring for unauthorized access or alterations.  
+- Ensuring user privacy and data security in all deployments.  
+
+Unauthorized tampering, duplication, or distribution of the Work is strictly prohibited.
+
+---
+
+## 13. Miscellaneous
+
+- This License represents the **entire agreement** between the Developer and any user of the Work.  
+- Any modifications, exceptions, or waivers must be explicitly stated in writing and signed by the Developer.  
+- The Developer reserves all rights not explicitly granted in this License.  
+
+---
+
+**Signed,**  
+William Isaiah Jones  
+**Date:** November 3, 2025
