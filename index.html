@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSX Web Editor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>HSX Web Editor</h1>
+    
+    <!-- Editor Container -->
+    <div id="editor"></div>
+    
+    <!-- Buttons -->
+    <div class="buttons">
+        <button id="runBtn">Run HSX</button>
+        <button id="downloadBtn">Download .hsx</button>
+    </div>
+    
+    <!-- Output -->
+    <div id="output"></div>
+
+    <!-- Monaco Editor Loader -->
+    <script src="https://cdn.jsdelivr.net/npm/monaco-editor@0.41.0/min/vs/loader.js"></script>
+
+    <!-- Main App Script as Module -->
+    <script type="module" src="app.js"></script>
+</body>
+</html>
